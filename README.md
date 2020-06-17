@@ -6,8 +6,8 @@ I am completely new to programming and am keen on learning more so I created a l
 ❓ Not Started   🏗 In Progress   🙌🏽 Done
 
 ## The List:
-* To-Do List App
-* Basic Piano 
+* To-Do List App 🏗
+* Basic Piano 🏗
 * Digital Tip Jar
 * Synth (Basic - implements a sine wave)
 * Chord Project (Library)
