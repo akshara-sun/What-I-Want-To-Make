@@ -1,6 +1,6 @@
 # What-I-Want-To-Make
 
-I am completely new to programming and am keen on learning more so I created a list of small projects I'd like to make. These will help document my progress and if you are a beginner like me, then you can join in on the quest as well :) Along the way, I'll make sure to update when each of these were completed and of course, the list will grow as I continue to grow as well.
+I love building and learning new things, so this repo is basically a library of everything I've built since I started coding after a long hiatus. I am so excited to be starting again and below, I have listed all the projects I want to work on. This will be updated as I think of more things to work on! 😊 
 
 ### Legend
 * ❓ Not Started   
@@ -8,14 +8,12 @@ I am completely new to programming and am keen on learning more so I created a l
 * 🙌🏽 Done
 
 ## The List:
-* To-Do List App 🏗
-* Basic Piano 🏗
-* Tip Jar
-* Synth (Basic - implements a sine wave)
+* To-Do List App - an app that helps you keep track of your daily and weekly to-dos!
+* Basic Piano 
+* Synth Keyboard (Basic - implements a sine wave)
 * Chord Project (Library)
-* Calendar (displays by week)
-* Synth (Advanced - different types of sound waves, a rhythm bank, pitch bend, chord recognition, and notation features)
-* Blog/Website for myself!
-* Stars Project (A library of constellations)
-* Passing the Music On Project!!! (A super cool collaborative project - more info coming soon!)
+* Synth (Advanced - different types of sound waves, a rhythm bank, pitch bend, chord recognition, and notation features?)
+* Drum Machine
+* SketchPad
+
 
